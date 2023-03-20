@@ -8,7 +8,7 @@ import Foundation
  
  For this exercise, you'll simulate timing of an assessment. Use a while loop to print "XX seconds has passed",3 where XX is every 10 seconds, to the console 10 times. Once you've successfully printed "XX seconds has passed" to the console 10 times, add the following code to the end of your while loop: `Thread.sleep(forTimeInterval: 60/cadence)` and adjust the value of cadence to put a pause between each iteration of the while loop so that the print statements actually occur at the proper cadence. (2 points)
  */
-let cadence: Double = 6
+let cadence: Double = 0
 var secondsPassed = 0
 
 

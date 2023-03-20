@@ -3,7 +3,7 @@
  
  >These exercises reinforce Swift concepts in the context of a math tutoring app.
  
- Suppose your app contains a list of different movements that can be tracked. You want to display each item in the list to the user. Use a for-in loop to loop through `topics` below and print each movement. (.5 points)
+ Suppose your app contains a list of different subjects that can be tracked. You want to display each item in the list to the user. Use a for-in loop to loop through `topics` below and print each subject. (.5 points)
  */
 let topics: [String] = ["Algebra 1", "Geometry", "Algebra 2", "Math Analysis", "Calculus", "Prob & Stats"]
 

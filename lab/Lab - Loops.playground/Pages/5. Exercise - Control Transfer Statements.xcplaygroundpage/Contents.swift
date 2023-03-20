@@ -11,4 +11,4 @@ let alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
  */
 
 
-//: [Previous](@previous)  |  page 5 of 6  |  [Next: App Exercise - Finding Movements](@next)
+//: [Previous](@previous)  |  page 5 of 6  |  [Next](@next)
